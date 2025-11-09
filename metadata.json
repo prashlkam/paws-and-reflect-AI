@@ -1,0 +1,7 @@
+{
+  "name": "Paws & Reflect: AI Dog Diary",
+  "description": "An AI-enabled dog diary to track your pet's life, from daily activities to health milestones, enhanced with AI-driven insights on food, exercise, and grooming.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
